@@ -131,4 +131,7 @@ body {
 	.quotation-background {
 		right: 30px;
 	}
+	.testimony-3 {
+		order: 5;
+	}
 }
